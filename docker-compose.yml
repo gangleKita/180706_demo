@@ -12,5 +12,3 @@ services:
 
   app:
     image: php:7.1.9-fpm-alpine
-    volumes:
-      - ./html:/var/www/html
